@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 20vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+section {
+  cursor: pointer;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+#root > div > header > div > div > div > div > div > div > table > tbody > tr{
+  background-color: #fff !important;
+}
+
+#root > div > header > div {
+  margin-top: 30px;
+}
