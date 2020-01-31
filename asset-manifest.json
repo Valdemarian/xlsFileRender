@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/xlsFileRender/static/css/main.e498dfa6.chunk.css",
+    "main.js": "/xlsFileRender/static/js/main.4b95e59d.chunk.js",
+    "main.js.map": "/xlsFileRender/static/js/main.4b95e59d.chunk.js.map",
+    "runtime-main.js": "/xlsFileRender/static/js/runtime-main.a3bd1897.js",
+    "runtime-main.js.map": "/xlsFileRender/static/js/runtime-main.a3bd1897.js.map",
+    "static/css/2.ff8bd605.chunk.css": "/xlsFileRender/static/css/2.ff8bd605.chunk.css",
+    "static/js/2.08e335a7.chunk.js": "/xlsFileRender/static/js/2.08e335a7.chunk.js",
+    "static/js/2.08e335a7.chunk.js.map": "/xlsFileRender/static/js/2.08e335a7.chunk.js.map",
+    "index.html": "/xlsFileRender/index.html",
+    "precache-manifest.00f0990807fd2568b7856a6b30fa934f.js": "/xlsFileRender/precache-manifest.00f0990807fd2568b7856a6b30fa934f.js",
+    "service-worker.js": "/xlsFileRender/service-worker.js",
+    "static/css/2.ff8bd605.chunk.css.map": "/xlsFileRender/static/css/2.ff8bd605.chunk.css.map",
+    "static/css/main.e498dfa6.chunk.css.map": "/xlsFileRender/static/css/main.e498dfa6.chunk.css.map",
+    "static/js/2.08e335a7.chunk.js.LICENSE": "/xlsFileRender/static/js/2.08e335a7.chunk.js.LICENSE",
+    "static/media/logo.svg": "/xlsFileRender/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3bd1897.js",
+    "static/css/2.ff8bd605.chunk.css",
+    "static/js/2.08e335a7.chunk.js",
+    "static/css/main.e498dfa6.chunk.css",
+    "static/js/main.4b95e59d.chunk.js"
+  ]
+}
